@@ -1,0 +1,32 @@
+[
+    {
+        "name": "balance",
+        "mode": "NULLABLE",
+        "type": "BIGNUMERIC",
+        "fields": []
+    },
+    {
+        "name": "blockchain",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "fields": []
+    },
+    {
+        "name": "date",
+        "mode": "NULLABLE",
+        "type": "DATE",
+        "fields": []
+    },
+    {
+        "name": "holder",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "fields": []
+    },
+    {
+        "name": "token",
+        "mode": "NULLABLE",
+        "type": "STRING",
+        "fields": []
+    }
+]
